@@ -1,13 +1,15 @@
 # Table of contents
 
-* [Welcome!](README.md)
+* [Getting started](README.md)
 
-## The Company
+## Basics
 
-* [Vision and Values](the-company/vision-and-values.md)
-* [Meet the Team!](the-company/meet-the-team.md)
+* [Styles](basics/styles/README.md)
+  * [Colors](basics/styles/colors.md)
+  * [Typography](basics/styles/typography.md)
+* [Icons](basics/icons.md)
+* [Components](basics/components/README.md)
+  * [AvatarStack](basics/components/avatarstack.md)
+  * [Button](basics/components/button.md)
 
-## The Formal Stuff
-
-* [Requesting Time Off](the-formal-stuff/requesting-time-off.md)
-* [Filing Expenses](the-formal-stuff/filing-expenses.md)
+## Basics
