@@ -1,23 +1,13 @@
 # Table of contents
 
-* [Get Started](README.md)
+* [Welcome!](README.md)
 
-## The Basics
+## The Company
 
-* [Spaces](the-basics/spaces.md)
-* [Collections](the-basics/collections.md)
-* [The GitBook editor](the-basics/the-gitbook-editor.md)
-* [Live edit and locked edits](the-basics/live-edit-and-locked-edits.md)
-* [Change requests](the-basics/change-requests.md)
+* [Vision and Values](the-company/vision-and-values.md)
+* [Meet the Team!](the-company/meet-the-team.md)
 
-## Publishing
+## The Formal Stuff
 
-* [Publishing your content](publishing/publishing-your-content.md)
-
-## Tips and tricks
-
-* [Speed up with quick find](tips-and-tricks/speed-up-with-quick-find.md)
-
-## Next steps
-
-* [What next?](next-steps/what-next.md)
+* [Requesting Time Off](the-formal-stuff/requesting-time-off.md)
+* [Filing Expenses](the-formal-stuff/filing-expenses.md)
