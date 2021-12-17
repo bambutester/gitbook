@@ -2,21 +2,21 @@
 
 * [Get Started](README.md)
 
-## The Basics
+## 1.1. The Basics
 
-* [Spaces](the-basics/spaces.md)
-* [Collections](the-basics/collections.md)
-* [The GitBook editor](the-basics/the-gitbook-editor.md)
-* [Live edit and locked edits](the-basics/live-edit-and-locked-edits.md)
-* [Change requests](the-basics/change-requests.md)
+* [Spaces](1.1.-the-basics/spaces.md)
+* [Collections](1.1.-the-basics/collections.md)
+* [The GitBook editor](1.1.-the-basics/the-gitbook-editor.md)
+* [Live edit and locked edits](1.1.-the-basics/live-edit-and-locked-edits.md)
+* [Change requests](1.1.-the-basics/change-requests.md)
 
-## Publishing
+## 1.2. Publishing
 
-* [Publishing your content](publishing/publishing-your-content.md)
+* [Publishing your content](1.2.-publishing/publishing-your-content.md)
 
-## Tips and tricks
+## 1.3. Tips and tricks
 
-* [Speed up with quick find](tips-and-tricks/speed-up-with-quick-find.md)
+* [Speed up with quick find](1.3.-tips-and-tricks/speed-up-with-quick-find.md)
 
 ## Next steps
 
