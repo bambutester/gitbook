@@ -10,8 +10,4 @@ Folks use spaces for all kinds of things. You might want to create API documenta
 
 Spaces can be published to the whole world, or just some of it, or just to a few very specific people. You can also invite folks to collaborate with you on a space if you're on a community, team, or business plan.
 
-{% hint style="info" %}
-**Create an organization** to collaborate with others on a space or collection.
-{% endhint %}
-
 There's tonnes you can do with Spaces, and you'll definitely figure them out over time, but for now, let's move on to **collections…**
